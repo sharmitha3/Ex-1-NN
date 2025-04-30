@@ -37,9 +37,6 @@ STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
 ~~~
-Developed by:Preetha.S
-Register no :212222230110
-
 import pandas as pd
 import io
 from sklearn.preprocessing import StandardScaler
